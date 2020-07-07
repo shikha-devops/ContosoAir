@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/azureshikha/testPOC/_apis/build/status/shikha-devops.ContosoAir?branchName=master)](https://dev.azure.com/azureshikha/testPOC/_build/latest?definitionId=8&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
